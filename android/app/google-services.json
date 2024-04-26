@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "41625668771",
+    "project_id": "convey-ba0b1",
+    "storage_bucket": "convey-ba0b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41625668771:android:eb91b7afeb23c2cb74c316",
+        "android_client_info": {
+          "package_name": "com.example.convey"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOwgqobXz2RyhU57-m4EFPy4S4AMuwOrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
